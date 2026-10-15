@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-Introdução e EscritaPequenos erros de digitação, concordância e repetições de termos Revisão ortográfica, gramatical e reestruturação de frases para maior fluidezJosé Luiz Dos Santos
+|Introdução e Escrita |Pequenos erros de digitação, concordância e repetições de termos Revisão ortográfica, gramatical e reestruturação de frases para maior fluidez | José Luiz Dos Santos |
 Referências Links desajustados e formatação inicial das fontes Padronização das referências conforme as normas e conferência de links Luiz Henrique Domingues Dos Santos
 
 
